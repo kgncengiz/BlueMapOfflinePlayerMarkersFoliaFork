@@ -1,6 +1,6 @@
 name: BlueMapOfflinePlayerMarkers
 version: ${project.version}
-main: com.technicjelle.bluemapofflineplayermarkers.impl.folia1_20.BlueMapOfflinePlayerMarkers
+main: com.technicjelle.bluemapofflineplayermarkers.impl.paper.BlueMapOfflinePlayerMarkers
 api-version: 1.13
 folia-supported: true
 depend:
